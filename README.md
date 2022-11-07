@@ -1,3 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-AR-Silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+                                  👨‍💻I'm Gabriel Silva, 19y, from Brazil
+
+
+💠I'm a beginner student in the area of Web development and Web Design
+💠Languages: Portuguese(Native), English(A2)💬
+
+
+
